@@ -40,7 +40,7 @@ The project aims to automate the extraction of information from handwritten Bang
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/handwritten-bangla-char-recognition.git
+   https://github.com/SumontaNandy/BanglaHandWrittenCharRecognition.git
 
 
 
